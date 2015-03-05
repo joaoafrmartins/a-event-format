@@ -1,0 +1,26 @@
+{
+  "name": "a-event-format",
+  "version": "0.0.0",
+  "description": "A Event Format",
+  "main": "lib/main",
+  "scripts": {
+    "test": "mocha --reporter spec --compilers coffee:coffee-script/register ./spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "a",
+    "event",
+    "format"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/joaoafrmartins/a-event-format",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-event-format.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-event-format/issues"
+  }
+}
