@@ -6,8 +6,8 @@
   "scripts": {
     "test": "mocha --reporter spec --compilers coffee:coffee-script/register ./spec"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "João Afonso Martins",
+  "license": "MIT",
   "keywords": [
     "a",
     "event",
